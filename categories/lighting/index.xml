@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lighting on 莊雅淇 | Portfolio</title>
+    <link>https://yarchiee.github.io/categories/lighting/</link>
+    <description>Recent content in lighting on 莊雅淇 | Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
+    <lastBuildDate>Mon, 19 Oct 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://yarchiee.github.io/categories/lighting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>光之囹圄</title>
+      <link>https://yarchiee.github.io/portfolio/project-10/</link>
+      <pubDate>Mon, 19 Oct 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://yarchiee.github.io/portfolio/project-10/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+  </channel>
+</rss>
